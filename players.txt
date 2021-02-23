@@ -1,0 +1,11 @@
+Pat 10 14
+Mike 28 19
+Billy 7 9
+John 8 8
+Jake 15 18
+Darren 8 7
+Perry 3 6
+Bob 10 5
+Tom 15 0
+Alex 12 0
+
